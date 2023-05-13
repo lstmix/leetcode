@@ -4,7 +4,7 @@
  * How many possible unique paths are there?
  *
  * Example 1:
- * <img src="https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png" style="width: 400px; height: 183px;" />
+ * (https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png)
  * Input: m = 3, n = 7
  * Output: 28
  *

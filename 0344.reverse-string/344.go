@@ -1,9 +1,9 @@
 /**
  * Write a function that reverses a string. The input string is given as an array of characters char[].
  *
- * Do not allocate extra space for another array, you must do this by modifying the input array <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank">in-place</a> with O(1) extra memory.
+ * Do not allocate extra space for another array, you must do this by modifying the input array (https://en.wikipedia.org/wiki/In-place_algorithm (in-place)) with O(1) extra memory.
  *
- * You may assume all the characters consist of <a href="https://en.wikipedia.org/wiki/ASCII#Printable_characters" target="_blank">printable ascii characters</a>.
+ * You may assume all the characters consist of (https://en.wikipedia.org/wiki/ASCII#Printable_characters (printable ascii characters)).
  *
  *
  *

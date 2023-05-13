@@ -3,7 +3,7 @@
  * You may not modify the values in the list's nodes. Only nodes itself may be changed.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/swap_ex1.jpg" style="width: 422px; height: 222px;" />
+ * (https://assets.leetcode.com/uploads/2020/10/03/swap_ex1.jpg)
  * Input: head = [1,2,3,4]
  * Output: [2,1,4,3]
  *

@@ -8,13 +8,13 @@
  * Follow up: Can you solve it with time complexity O(height of tree)?
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/09/04/del_node_1.jpg" style="width: 800px; height: 214px;" />
+ * (https://assets.leetcode.com/uploads/2020/09/04/del_node_1.jpg)
  * Input: root = [5,3,6,2,4,null,7], key = 3
  * Output: [5,4,6,2,null,null,7]
  * Explanation: Given key to delete is 3. So we find the node with value 3 and delete it.
  * One valid answer is [5,4,6,2,null,null,7], shown in the above BST.
  * Please notice that another valid answer is [5,2,6,null,4,null,7] and it's also accepted.
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/09/04/del_node_supp.jpg" style="width: 350px; height: 255px;" />
+ * (https://assets.leetcode.com/uploads/2020/09/04/del_node_supp.jpg)
  *
  * Example 2:
  *

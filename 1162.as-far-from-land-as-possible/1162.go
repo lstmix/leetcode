@@ -4,7 +4,7 @@
  * If no land or water exists in the grid, return -1.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/05/03/1336_ex1.JPG" style="width: 185px; height: 87px;" />
+ * (https://assets.leetcode.com/uploads/2019/05/03/1336_ex1.JPG)
  *
  * Input: <span id="example-input-1-1">[[1,0,1],[0,0,0],[1,0,1]]</span>
  * Output: <span id="example-output-1">2</span>
@@ -12,7 +12,7 @@
  * The cell (1, 1) is as far as possible from all the land with distance 2.
  *
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/05/03/1336_ex2.JPG" style="width: 184px; height: 87px;" />
+ * (https://assets.leetcode.com/uploads/2019/05/03/1336_ex2.JPG)
  *
  * Input: <span id="example-input-2-1">[[1,0,0],[0,0,0],[0,0,0]]</span>
  * Output: <span id="example-output-2">4</span>

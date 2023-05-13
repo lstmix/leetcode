@@ -16,7 +16,7 @@
  * <div>
  * Example 1:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/02/16/oranges.png" style="width: 712px; height: 150px;" />
+ * (https://assets.leetcode.com/uploads/2019/02/16/oranges.png)
  *
  *
  * Input: <span id="example-input-1-1">[[2,1,1],[1,1,0],[0,1,1]]</span>

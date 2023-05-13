@@ -4,7 +4,7 @@
  * <ol>
  * </ol>
  *
- * <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif" style="height:180px; width:300px" /><br />
+ * (https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)<br />
  * <small>A graphical example of insertion sort. The partial sorted list (black) initially contains only the first element in the list.<br />
  * With each iteration one element (red) is removed from the input data and inserted in-place into the sorted list</small><br />
  *

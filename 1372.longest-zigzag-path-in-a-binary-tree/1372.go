@@ -15,7 +15,7 @@
  *
  * Example 1:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/01/22/sample_1_1702.png" style="width: 151px; height: 283px;" />
+ * (https://assets.leetcode.com/uploads/2020/01/22/sample_1_1702.png)
  *
  *
  * Input: root = [1,null,1,1,1,null,null,1,1,null,1,null,null,null,1,null,1]
@@ -25,7 +25,7 @@
  *
  * Example 2:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/01/22/sample_2_1702.png" style="width: 120px; height: 253px;" />
+ * (https://assets.leetcode.com/uploads/2020/01/22/sample_2_1702.png)
  *
  *
  * Input: root = [1,1,1,null,1,null,null,1,1,null,1]

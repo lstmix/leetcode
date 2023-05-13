@@ -1,5 +1,5 @@
 /**
- * Given a binary search tree (BST) with duplicates, find all the <a href="https://en.wikipedia.org/wiki/Mode_(statistics)" target="_blank">mode(s)</a> (the most frequently occurred element) in the given BST.
+ * Given a binary search tree (BST) with duplicates, find all the (https://en.wikipedia.org/wiki/Mode_(statistics) (mode(s))) (the most frequently occurred element) in the given BST.
  *
  * Assume a BST is defined as follows:
  *

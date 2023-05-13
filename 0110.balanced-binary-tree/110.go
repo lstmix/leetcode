@@ -6,12 +6,12 @@
  * </blockquote>
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/10/06/balance_1.jpg" style="width: 342px; height: 221px;" />
+ * (https://assets.leetcode.com/uploads/2020/10/06/balance_1.jpg)
  * Input: root = [3,9,20,null,null,15,7]
  * Output: true
  *
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/10/06/balance_2.jpg" style="width: 452px; height: 301px;" />
+ * (https://assets.leetcode.com/uploads/2020/10/06/balance_2.jpg)
  * Input: root = [1,2,2,3,3,null,null,4,4]
  * Output: false
  *

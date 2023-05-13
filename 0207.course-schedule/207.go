@@ -21,7 +21,7 @@
  *
  * Constraints:
  *
- * 	The input prerequisites is a graph represented by a list of edges, not adjacency matrices. Read more about <a href="https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs" target="_blank">how a graph is represented</a>.
+ * 	The input prerequisites is a graph represented by a list of edges, not adjacency matrices. Read more about (https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs (how a graph is represented)).
  * 	You may assume that there are no duplicate edges in the input prerequisites.
  * 	1 <= numCourses <= 10^5
  *

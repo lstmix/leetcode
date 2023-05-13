@@ -9,7 +9,7 @@
  *
  * Example 1:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/05/23/931_example_1.png" style="width: 200px; height: 220px;" />
+ * (https://assets.leetcode.com/uploads/2019/05/23/931_example_1.png)
  *
  *
  * Input: times = <span id="example-input-1-1">[[2,1,1],[2,3,1],[3,4,1]]</span>, N = <span id="example-input-1-2">4</span>, K = <span id="example-input-1-3">2</span>

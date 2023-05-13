@@ -6,10 +6,10 @@
  * 	The right subtree of a node contains only nodes with keys greater than the node's key.
  * 	Both the left and right subtrees must also be binary search trees.
  *
- * Note: This question is the same as 538: <a href="https://leetcode.com/problems/convert-bst-to-greater-tree/">https://leetcode.com/problems/convert-bst-to-greater-tree/</a>
+ * Note: This question is the same as 538: (https://leetcode.com/problems/convert-bst-to-greater-tree/ (https://leetcode.com/problems/convert-bst-to-greater-tree/))
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/05/02/tree.png" style="width: 550px; height: 375px;" />
+ * (https://assets.leetcode.com/uploads/2019/05/02/tree.png)
  * Input: root = [4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]
  * Output: [30,36,21,36,35,26,15,null,null,null,33,null,null,null,8]
  *

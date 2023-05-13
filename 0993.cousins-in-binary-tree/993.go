@@ -5,21 +5,21 @@
  * Return true if and only if the nodes corresponding to the values x and y are cousins.
  *
  * Example 1:<br />
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/02/12/q1248-01.png" style="width: 180px; height: 160px;" />
+ * (https://assets.leetcode.com/uploads/2019/02/12/q1248-01.png)
  *
  * Input: root = <span id="example-input-1-1">[1,2,3,4]</span>, x = <span id="example-input-1-2">4</span>, y = <span id="example-input-1-3">3</span>
  * Output: <span id="example-output-1">false</span>
  *
  * <div>
  * Example 2:<br />
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/02/12/q1248-02.png" style="width: 201px; height: 160px;" />
+ * (https://assets.leetcode.com/uploads/2019/02/12/q1248-02.png)
  *
  * Input: root = <span id="example-input-2-1">[1,2,3,null,4,null,5]</span>, x = <span id="example-input-2-2">5</span>, y = <span id="example-input-2-3">4</span>
  * Output: <span id="example-output-2">true</span>
  *
  * <div>
  * Example 3:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/02/13/q1248-03.png" style="width: 156px; height: 160px;" />
+ * (https://assets.leetcode.com/uploads/2019/02/13/q1248-03.png)
  *
  * Input: root = <span id="example-input-3-1">[1,2,3,null,4]</span>, x = 2, y = 3
  * Output: <span id="example-output-3">false</span>

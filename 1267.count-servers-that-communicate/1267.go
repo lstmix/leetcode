@@ -4,20 +4,20 @@
  * Return the number of servers that communicate with any other server.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/11/14/untitled-diagram-6.jpg" style="width: 202px; height: 203px;" />
+ * (https://assets.leetcode.com/uploads/2019/11/14/untitled-diagram-6.jpg)
  *
  * Input: grid = [[1,0],[0,1]]
  * Output: 0
  * Explanation: No servers can communicate with others.
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/11/13/untitled-diagram-4.jpg" style="width: 203px; height: 203px;" />
+ * (https://assets.leetcode.com/uploads/2019/11/13/untitled-diagram-4.jpg)
  *
  * Input: grid = [[1,0],[1,1]]
  * Output: 3
  * Explanation: All three servers can communicate with at least one other server.
  *
  * Example 3:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/11/14/untitled-diagram-1-3.jpg" style="width: 443px; height: 443px;" />
+ * (https://assets.leetcode.com/uploads/2019/11/14/untitled-diagram-1-3.jpg)
  *
  * Input: grid = [[1,1,0,0],[0,0,1,0],[0,0,1,0],[0,0,0,1]]
  * Output: 4

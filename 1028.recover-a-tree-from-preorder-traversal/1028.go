@@ -5,17 +5,17 @@
  * Given the output S of this traversal, recover the tree and return its root.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/04/08/recover-a-tree-from-preorder-traversal.png" style="width: 320px; height: 200px;" />
+ * (https://assets.leetcode.com/uploads/2019/04/08/recover-a-tree-from-preorder-traversal.png)
  * Input: S = "1-2--3--4-5--6--7"
  * Output: [1,2,5,3,4,6,7]
  *
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/04/11/screen-shot-2019-04-10-at-114101-pm.png" style="width: 256px; height: 250px;" />
+ * (https://assets.leetcode.com/uploads/2019/04/11/screen-shot-2019-04-10-at-114101-pm.png)
  * Input: S = "1-2--3---4-5--6---7"
  * Output: [1,2,5,3,null,6,null,4,null,7]
  *
  * Example 3:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/04/11/screen-shot-2019-04-10-at-114955-pm.png" style="width: 276px; height: 250px;" />
+ * (https://assets.leetcode.com/uploads/2019/04/11/screen-shot-2019-04-10-at-114955-pm.png)
  * Input: S = "1-401--349---90--88"
  * Output: [1,401,null,349,88,90]
  *

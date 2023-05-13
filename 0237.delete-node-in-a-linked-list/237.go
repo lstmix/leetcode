@@ -3,13 +3,13 @@
  * It is guaranteed that the node to be deleted is not a tail node in the list.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node1.jpg" style="width: 450px; height: 322px;" />
+ * (https://assets.leetcode.com/uploads/2020/09/01/node1.jpg)
  * Input: head = [4,5,1,9], node = 5
  * Output: [4,1,9]
  * Explanation: You are given the second node with value 5, the linked list should become 4 -> 1 -> 9 after calling your function.
  *
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/09/01/node2.jpg" style="width: 450px; height: 354px;" />
+ * (https://assets.leetcode.com/uploads/2020/09/01/node2.jpg)
  * Input: head = [4,5,1,9], node = 1
  * Output: [4,5,9]
  * Explanation: You are given the third node with value 1, the linked list should become 4 -> 5 -> 9 after calling your function.

@@ -22,7 +22,7 @@
  * Output: 2
  *
  * Explanation:
- * <img src="https://assets.leetcode.com/uploads/2018/10/12/brick_wall.png" style="width: 100%; max-width: 350px" />
+ * (https://assets.leetcode.com/uploads/2018/10/12/brick_wall.png)
  *
  *
  *

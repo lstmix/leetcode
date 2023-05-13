@@ -1,7 +1,7 @@
 /**
  * Given an integer rowIndex, return the rowIndex^th row of the Pascal's triangle.
  * Notice that the row index starts from 0.
- * <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif" /><br />
+ * (https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)<br />
  * <small>In Pascal's triangle, each number is the sum of the two numbers directly above it.</small>
  * Follow up:
  * Could you optimize your algorithm to use only O(k) extra space?

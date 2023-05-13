@@ -4,19 +4,19 @@
  * Notice that you should not modify the linked list.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png" style="height: 145px; width: 450px;" />
+ * (https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png)
  * Input: head = [3,2,0,-4], pos = 1
  * Output: tail connects to node index 1
  * Explanation: There is a cycle in the linked list, where tail connects to the second node.
  *
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png" style="height: 105px; width: 201px;" />
+ * (https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png)
  * Input: head = [1,2], pos = 0
  * Output: tail connects to node index 0
  * Explanation: There is a cycle in the linked list, where tail connects to the first node.
  *
  * Example 3:
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png" style="height: 65px; width: 65px;" />
+ * (https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png)
  * Input: head = [1], pos = -1
  * Output: no cycle
  * Explanation: There is no cycle in the linked list.

@@ -8,7 +8,7 @@
  *
  * Example 1:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/08/22/1515_ex1.png" style="width: 250px; height: 248px;" /><img alt="" src="https://assets.leetcode.com/uploads/2019/08/22/1515_ex1_out.png" style="width: 200px; height: 200px;" />
+ * (https://assets.leetcode.com/uploads/2019/08/22/1515_ex1.png)(https://assets.leetcode.com/uploads/2019/08/22/1515_ex1_out.png)
  *
  *
  * Input: root = [1,null,2,null,3,null,4,null,null]

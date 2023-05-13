@@ -1,5 +1,5 @@
 /**
- * Evaluate the value of an arithmetic expression in <a href="http://en.wikipedia.org/wiki/Reverse_Polish_notation" target="_blank">Reverse Polish Notation</a>.
+ * Evaluate the value of an arithmetic expression in (http://en.wikipedia.org/wiki/Reverse_Polish_notation (Reverse Polish Notation)).
  *
  * Valid operators are +, -, *, /. Each operand may be an integer or another expression.
  *

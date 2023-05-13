@@ -1,6 +1,6 @@
 /**
  *
- * Given an integer, write an algorithm to convert it to hexadecimal. For negative integer, <a href="https://en.wikipedia.org/wiki/Two%27s_complement" target="_blank">two’s complement</a> method is used.
+ * Given an integer, write an algorithm to convert it to hexadecimal. For negative integer, (https://en.wikipedia.org/wiki/Two%27s_complement (two’s complement)) method is used.
  *
  *
  * Note:

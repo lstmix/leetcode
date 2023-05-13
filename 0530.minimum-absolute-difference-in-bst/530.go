@@ -1,5 +1,5 @@
 /**
- * Given a binary search tree with non-negative values, find the minimum <a href="https://en.wikipedia.org/wiki/Absolute_difference">absolute difference</a> between values of any two nodes.
+ * Given a binary search tree with non-negative values, find the minimum (https://en.wikipedia.org/wiki/Absolute_difference (absolute difference)) between values of any two nodes.
  * Example:
  *
  * Input:
@@ -17,7 +17,7 @@
  * Note:
  *
  * 	There are at least two nodes in this BST.
- * 	This question is the same as 783: <a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/">https://leetcode.com/problems/minimum-distance-between-bst-nodes/</a>
+ * 	This question is the same as 783: (https://leetcode.com/problems/minimum-distance-between-bst-nodes/ (https://leetcode.com/problems/minimum-distance-between-bst-nodes/))
  *
  */
 

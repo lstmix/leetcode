@@ -10,7 +10,7 @@
  * <div>
  * Example 1:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/01/18/tree1.png" style="width: 150px; height: 142px;" />
+ * (https://assets.leetcode.com/uploads/2019/01/18/tree1.png)
  *
  *
  * Input: <span id="example-input-1-1">[3,0,0]</span>
@@ -21,7 +21,7 @@
  * <div>
  * Example 2:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/01/18/tree2.png" style="width: 150px; height: 142px;" />
+ * (https://assets.leetcode.com/uploads/2019/01/18/tree2.png)
  *
  *
  * Input: <span id="example-input-2-1">[0,3,0]</span>
@@ -32,7 +32,7 @@
  * <div>
  * Example 3:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/01/18/tree3.png" style="width: 150px; height: 142px;" />
+ * (https://assets.leetcode.com/uploads/2019/01/18/tree3.png)
  *
  *
  * Input: <span id="example-input-3-1">[1,0,2]</span>
@@ -42,7 +42,7 @@
  * <div>
  * Example 4:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/01/18/tree4.png" style="width: 155px; height: 156px;" />
+ * (https://assets.leetcode.com/uploads/2019/01/18/tree4.png)
  *
  *
  * Input: <span id="example-input-4-1">[1,0,0,null,3]</span>

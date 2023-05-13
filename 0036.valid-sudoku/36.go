@@ -12,7 +12,7 @@
  *
  *
  * Example 1:
- * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png" style="height:250px; width:250px" />
+ * (https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)
  * Input: board =
  * [["5","3",".",".","7",".",".",".","."]
  * ,["6",".",".","1","9","5",".",".","."]

@@ -6,7 +6,7 @@
  *
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/12/28/unival_bst_1.png" style="width: 265px; height: 172px;" />
+ * (https://assets.leetcode.com/uploads/2018/12/28/unival_bst_1.png)
  *
  * Input: <span id="example-input-1-1">[1,1,1,1,1,null,1]</span>
  * Output: <span id="example-output-1">true</span>
@@ -14,7 +14,7 @@
  *
  * <div>
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/12/28/unival_bst_2.png" style="width: 198px; height: 169px;" />
+ * (https://assets.leetcode.com/uploads/2018/12/28/unival_bst_2.png)
  *
  * Input: <span id="example-input-2-1">[2,2,2,5,2]</span>
  * Output: <span id="example-output-2">false</span>

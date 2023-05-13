@@ -1,7 +1,7 @@
 /**
  * The n-queens puzzle is the problem of placing n queens on an n&times;n chessboard such that no two queens attack each other.
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/10/12/8-queens.png" style="width: 258px; height: 276px;" />
+ * (https://assets.leetcode.com/uploads/2018/10/12/8-queens.png)
  *
  * Given an integer n, return all distinct solutions to the n-queens puzzle.
  *

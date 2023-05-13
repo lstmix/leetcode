@@ -36,7 +36,7 @@
  *
  *
  * <font color="red">Update (2017-09-26):</font><br>
- * We have overhauled the problem description + test cases and specified clearly the graph is an undirected graph. For the directed graph follow up please see <a href="https://leetcode.com/problems/redundant-connection-ii/description/">Redundant Connection II</a>). We apologize for any inconvenience caused.
+ * We have overhauled the problem description + test cases and specified clearly the graph is an undirected graph. For the directed graph follow up please see (https://leetcode.com/problems/redundant-connection-ii/description/ (Redundant Connection II))). We apologize for any inconvenience caused.
  *
  */
 

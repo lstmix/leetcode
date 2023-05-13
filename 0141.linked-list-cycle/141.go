@@ -4,19 +4,19 @@
  * Return true if there is a cycle in the linked list. Otherwise, return false.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png" style="width: 300px; height: 97px; margin-top: 8px; margin-bottom: 8px;" />
+ * (https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png)
  * Input: head = [3,2,0,-4], pos = 1
  * Output: true
  * Explanation: There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed).
  *
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png" style="width: 141px; height: 74px;" />
+ * (https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png)
  * Input: head = [1,2], pos = 0
  * Output: true
  * Explanation: There is a cycle in the linked list, where the tail connects to the 0th node.
  *
  * Example 3:
- * <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png" style="width: 45px; height: 45px;" />
+ * (https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png)
  * Input: head = [1], pos = -1
  * Output: false
  * Explanation: There is no cycle in the linked list.

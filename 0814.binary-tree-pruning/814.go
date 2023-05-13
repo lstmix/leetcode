@@ -10,19 +10,19 @@
  * Explanation:
  * Only the red nodes satisfy the property "every subtree not containing a 1".
  * The diagram on the right represents the answer.
- * <img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/06/1028_2.png" style="width:450px" />
+ * (https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/06/1028_2.png)
  *
  * Example 2:
  * Input: [1,0,1,0,0,0,1]
  * Output: [1,null,1,null,1]
  *
- * <img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/06/1028_1.png" style="width:450px" />
+ * (https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/06/1028_1.png)
  *
  * Example 3:
  * Input: [1,1,0,1,1,0,1,0]
  * Output: [1,1,0,1,1,null,1]
  *
- * <img alt="" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/05/1028.png" style="width:450px" />
+ * (https://s3-lc-upload.s3.amazonaws.com/uploads/2018/04/05/1028.png)
  *
  * Note:
  *

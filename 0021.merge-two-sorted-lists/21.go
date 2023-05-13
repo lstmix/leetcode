@@ -2,7 +2,7 @@
  * Merge two sorted linked lists and return it as a new sorted list. The new list should be made by splicing together the nodes of the first two lists.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg" style="width: 662px; height: 302px;" />
+ * (https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
  * Input: l1 = [1,2,4], l2 = [1,3,4]
  * Output: [1,1,2,3,4,4]
  *

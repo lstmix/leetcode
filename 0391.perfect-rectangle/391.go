@@ -3,7 +3,7 @@
  *
  * Each rectangle is represented as a bottom-left point and a top-right point. For example, a unit square is represented as [1,1,2,2]. (coordinate of bottom-left point is (1, 1) and top-right point is (2, 2)).
  *
- * <div style="float:right"><img src="https://assets.leetcode.com/uploads/2018/10/22/rectangle_perfect.gif" style="width: 249px; height: 250px;" /></div>
+ * <div style="float:right">(https://assets.leetcode.com/uploads/2018/10/22/rectangle_perfect.gif)</div>
  *
  * Example 1:
  *
@@ -23,7 +23,7 @@
  *
  * <div style="clear:both"> </div>
  *
- * <div style="float:right"><img src="https://assets.leetcode.com/uploads/2018/10/22/rectangle_separated.gif" style="width: 249px; height: 250px;" /></div>
+ * <div style="float:right">(https://assets.leetcode.com/uploads/2018/10/22/rectangle_separated.gif)</div>
  *
  * Example 2:
  *
@@ -42,7 +42,7 @@
  *
  * <div style="clear:both"> </div>
  *
- * <div style="float:right"><img src="https://assets.leetcode.com/uploads/2018/10/22/rectangle_hole.gif" style="width: 249px; height: 250px;" /></div>
+ * <div style="float:right">(https://assets.leetcode.com/uploads/2018/10/22/rectangle_hole.gif)</div>
  *
  * Example 3:
  *
@@ -61,7 +61,7 @@
  *
  * <div style="clear:both"> </div>
  *
- * <div style="float:right"><img src="https://assets.leetcode.com/uploads/2018/10/22/rectangle_intersect.gif" style="width: 249px; height: 250px;" /></div>
+ * <div style="float:right">(https://assets.leetcode.com/uploads/2018/10/22/rectangle_intersect.gif)</div>
  *
  * Example 4:
  *

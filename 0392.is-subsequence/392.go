@@ -4,7 +4,7 @@
  * Follow up:<br />
  * If there are lots of incoming S, say S1, S2, ... , Sk where k >= 1B, and you want to check one by one to see if T has its subsequence. In this scenario, how would you change your code?
  * Credits:<br />
- * Special thanks to <a href="https://leetcode.com/pbrother/">@pbrother</a> for adding this problem and creating all test cases.
+ * Special thanks to (https://leetcode.com/pbrother/ (@pbrother)) for adding this problem and creating all test cases.
  *
  * Example 1:
  * Input: s = "abc", t = "ahbgdc"

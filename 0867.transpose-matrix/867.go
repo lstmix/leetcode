@@ -4,7 +4,7 @@
  * The transpose of a matrix is the matrix flipped over it's main diagonal, switching the row and column indices of the matrix.
  *
  * <br>
- * <img src="https://assets.leetcode.com/uploads/2019/10/20/hint_transpose.png" width="700"/>
+ * (https://assets.leetcode.com/uploads/2019/10/20/hint_transpose.png)
  *
  *
  *

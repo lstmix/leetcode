@@ -3,12 +3,12 @@
  * For this problem, a path is defined as any node sequence from some starting node to any node in the tree along the parent-child connections. The path must contain at least one node and does not need to go through the root.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/10/13/exx1.jpg" style="width: 322px; height: 182px;" />
+ * (https://assets.leetcode.com/uploads/2020/10/13/exx1.jpg)
  * Input: root = [1,2,3]
  * Output: 6
  *
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2020/10/13/exx2.jpg" />
+ * (https://assets.leetcode.com/uploads/2020/10/13/exx2.jpg)
  * Input: root = [-10,9,20,null,null,15,7]
  * Output: 42
  *

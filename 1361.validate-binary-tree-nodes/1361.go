@@ -4,25 +4,25 @@
  * Note that the nodes have no values and that we only use the node numbers in this problem.
  *
  * Example 1:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/08/23/1503_ex1.png" style="width: 195px; height: 287px;" />
+ * (https://assets.leetcode.com/uploads/2019/08/23/1503_ex1.png)
  *
  * Input: n = 4, leftChild = [1,-1,3,-1], rightChild = [2,-1,-1,-1]
  * Output: true
  *
  * Example 2:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/08/23/1503_ex2.png" style="width: 183px; height: 272px;" />
+ * (https://assets.leetcode.com/uploads/2019/08/23/1503_ex2.png)
  *
  * Input: n = 4, leftChild = [1,-1,3,-1], rightChild = [2,3,-1,-1]
  * Output: false
  *
  * Example 3:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/08/23/1503_ex3.png" style="width: 82px; height: 174px;" />
+ * (https://assets.leetcode.com/uploads/2019/08/23/1503_ex3.png)
  *
  * Input: n = 2, leftChild = [1,0], rightChild = [-1,-1]
  * Output: false
  *
  * Example 4:
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/08/23/1503_ex4.png" style="width: 470px; height: 191px;" />
+ * (https://assets.leetcode.com/uploads/2019/08/23/1503_ex4.png)
  *
  * Input: n = 6, leftChild = [1,-1,-1,4,-1,-1], rightChild = [2,-1,-1,5,-1,-1]
  * Output: false

@@ -18,7 +18,7 @@
  * <ol>
  * 	The size of the BST will be between 2 and 100.
  * 	The BST is always valid, each node's value is an integer, and each node's value is different.
- * 	This question is the same as 530: <a href="https://leetcode.com/problems/minimum-absolute-difference-in-bst/">https://leetcode.com/problems/minimum-absolute-difference-in-bst/</a>
+ * 	This question is the same as 530: (https://leetcode.com/problems/minimum-absolute-difference-in-bst/ (https://leetcode.com/problems/minimum-absolute-difference-in-bst/))
  * </ol>
  *
  */

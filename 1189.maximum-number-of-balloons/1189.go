@@ -6,7 +6,7 @@
  *
  * Example 1:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/09/05/1536_ex1_upd.JPG" style="width: 132px; height: 35px;" />
+ * (https://assets.leetcode.com/uploads/2019/09/05/1536_ex1_upd.JPG)
  *
  *
  * Input: text = "nlaebolko"
@@ -15,7 +15,7 @@
  *
  * Example 2:
  *
- * <img alt="" src="https://assets.leetcode.com/uploads/2019/09/05/1536_ex2_upd.JPG" style="width: 267px; height: 35px;" />
+ * (https://assets.leetcode.com/uploads/2019/09/05/1536_ex2_upd.JPG)
  *
  *
  * Input: text = "loonbalxballpoon"

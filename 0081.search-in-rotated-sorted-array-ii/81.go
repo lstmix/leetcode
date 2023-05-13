@@ -21,7 +21,7 @@
  * Follow up:
  *
  *
- * 	This is a follow up problem to <a href="/problems/search-in-rotated-sorted-array/description/">Search in Rotated Sorted Array</a>, where nums may contain duplicates.
+ * 	This is a follow up problem to (/problems/search-in-rotated-sorted-array/description/ (Search in Rotated Sorted Array)), where nums may contain duplicates.
  * 	Would this affect the run-time complexity? How and why?
  *
  *

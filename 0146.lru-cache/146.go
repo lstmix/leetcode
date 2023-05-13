@@ -1,5 +1,5 @@
 /**
- * Design a data structure that follows the constraints of a <a href="https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU" target="_blank">Least Recently Used (LRU) cache</a>.
+ * Design a data structure that follows the constraints of a (https://en.wikipedia.org/wiki/Cache_replacement_policies#LRU (Least Recently Used (LRU) cache)).
  * Implement the LRUCache class:
  *
  * 	LRUCache(int capacity) Initialize the LRU cache with positive size capacity.

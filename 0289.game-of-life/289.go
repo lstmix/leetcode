@@ -1,7 +1,7 @@
 /**
- * According to the <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="_blank">Wikipedia's article</a>: "The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
+ * According to the (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life (Wikipedia's article)): "The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970."
  *
- * Given a board with m by n cells, each cell has an initial state live (1) or dead (0). Each cell interacts with its <a href="https://en.wikipedia.org/wiki/Moore_neighborhood" target="_blank">eight neighbors</a> (horizontal, vertical, diagonal) using the following four rules (taken from the above Wikipedia article):
+ * Given a board with m by n cells, each cell has an initial state live (1) or dead (0). Each cell interacts with its (https://en.wikipedia.org/wiki/Moore_neighborhood (eight neighbors)) (horizontal, vertical, diagonal) using the following four rules (taken from the above Wikipedia article):
  *
  * <ol>
  * 	Any live cell with fewer than two live neighbors dies, as if caused by under-population.
