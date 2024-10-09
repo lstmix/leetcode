@@ -32,13 +32,6 @@ package leetcode
 import "math"
 
 // Method 1. Radix sort
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func countSort(nums, aux []int, exp int) {
 	n := len(nums)
 
@@ -101,13 +94,6 @@ func maximumGap(nums []int) int {
 }
 
 // Method 2. Bucket sort
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func maximumGap2(nums []int) int {
 	n := len(nums)
 	if n < 2 {

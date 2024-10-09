@@ -40,20 +40,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func maxIncreaseKeepingSkyline(grid [][]int) int {
 	n := len(grid)
 

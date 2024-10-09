@@ -86,20 +86,6 @@ import (
 	"math"
 )
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func addOrRemove(m map[string]struct{}, x, y int) bool {
 	str := fmt.Sprintf("%d %d", x, y)
 	if _, ok := m[str]; ok {

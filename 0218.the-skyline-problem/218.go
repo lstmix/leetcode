@@ -28,12 +28,6 @@ import (
 )
 
 // Method 1. Divide and conquer
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
 
 // check for redundant skylines, a skyline is
 // redundant if it has same height or left as previous

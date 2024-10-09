@@ -34,13 +34,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 // Manacher's algorithm
 func countSubstrings(s string) int {
 	n := len(s)

@@ -70,13 +70,6 @@ type State struct {
 	keys, x, y int
 }
 
-func max(a, b uint8) uint8 {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func shortestPathAllKeys(grid []string) int {
 	var numKeys uint8
 	x, y := -1, -1

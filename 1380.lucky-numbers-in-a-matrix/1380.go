@@ -34,20 +34,6 @@ package leetcode
 
 import "math"
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func luckyNumbers(matrix [][]int) []int {
 	m := len(matrix)
 	n := len(matrix[0])

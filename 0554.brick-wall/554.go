@@ -38,13 +38,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func leastBricks(wall [][]int) int {
 	m := make(map[int]int)
 	minVal := len(wall)

@@ -46,13 +46,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a < b {
-		return b
-	}
-	return a
-}
-
 func longestMountain(A []int) int {
 	mark, maxLen, decr := -1, 0, true
 	for i := 0; i < len(A); i++ {

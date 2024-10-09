@@ -47,13 +47,6 @@ package leetcode
 
 import "sort"
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // We track our current stitching position (st). For each iteration, we check all overlapping clips, and pick the one that advances our stitching position the furthest.
 // We sort our clips by the starting point. Since clips are sorted, we need to only analyze each clip once. For each round, we check all overlapping clips (clips[i][0] <= st) and advance our stitching position as far as we can (end = max(end, clips[i][1])).
 // Return -1 if we cannot advance our stitching position (st == end).

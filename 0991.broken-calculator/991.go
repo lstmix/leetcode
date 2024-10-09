@@ -56,13 +56,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func brokenCalc(X int, Y int) int {
 	if X >= Y {
 		return X - Y

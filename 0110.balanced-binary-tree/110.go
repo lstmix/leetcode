@@ -36,13 +36,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func max(a, b int) int {
-	if a < b {
-		return b
-	}
-	return a
-}
-
 func similarHeight(h1, h2 int) bool {
 	diff := h1 - h2
 	return diff == 1 || diff == 0 || diff == -1

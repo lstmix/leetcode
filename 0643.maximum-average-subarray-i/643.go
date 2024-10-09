@@ -24,13 +24,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func findMaxAverage(nums []int, k int) float64 {
 	sum := 0
 	for i := 0; i < k; i++ {

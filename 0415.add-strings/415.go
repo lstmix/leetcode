@@ -15,13 +15,6 @@ package leetcode
 
 import "bytes"
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func addStrings(num1 string, num2 string) string {
 	m := len(num1)
 	n := len(num2)

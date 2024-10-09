@@ -24,13 +24,6 @@ package leetcode
 
 import "math"
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 // more verbose solution
 func minimumTotal(triangle [][]int) int {
 	memo := make([]int, len(triangle))

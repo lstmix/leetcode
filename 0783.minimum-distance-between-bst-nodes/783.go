@@ -33,13 +33,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func mindiff(root *TreeNode, prev, minVal *int) {
 	if root == nil {
 		return

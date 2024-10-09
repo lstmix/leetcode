@@ -51,13 +51,6 @@ package leetcode
 // 2 o 1 1 2 3 4
 // 3 s 3 2 2 2 3
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func minDistance(word1 string, word2 string) int {
 	memo := make([][]int, len(word1)+1)
 	for i := range memo {

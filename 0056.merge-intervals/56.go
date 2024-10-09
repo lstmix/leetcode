@@ -47,13 +47,6 @@ func qsort(a [][]int) {
 	qsort(a[left+1:])
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func merge(intervals [][]int) [][]int {
 	// sort intervals by start value
 	qsort(intervals)

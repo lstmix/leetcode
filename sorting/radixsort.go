@@ -1,12 +1,5 @@
 package sorting
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func countSort(nums, aux []int, exp int) {
 	n := len(nums)
 

@@ -21,13 +21,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // 2D Dynamic Programming solution
 // To make them identical, just find the longest common subsequence.
 // The rest of the characters have to be deleted from the both the strings,

@@ -41,13 +41,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 // no need for preprocessing
 func countSquares(matrix [][]int) int {
 	res := 0

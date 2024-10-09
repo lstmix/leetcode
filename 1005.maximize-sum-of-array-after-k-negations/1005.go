@@ -52,13 +52,6 @@ import (
 	"sort"
 )
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 // Method 1. Sorting.
 // the logic is like this:
 // before K is 0, use the following rules, after K is 0 - just sum the remaining elements

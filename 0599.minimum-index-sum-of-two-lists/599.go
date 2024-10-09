@@ -44,13 +44,6 @@ package leetcode
 
 import "math"
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func findRestaurant(list1 []string, list2 []string) []string {
 	m := make(map[string]int)
 	for i := range list1 {

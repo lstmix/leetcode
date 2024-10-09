@@ -30,13 +30,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func minimumDeleteSum(s1 string, s2 string) int {
 	m := len(s1)
 	n := len(s2)

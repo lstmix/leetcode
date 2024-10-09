@@ -26,20 +26,6 @@ package leetcode
 
 import "math"
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func minFallingPathSum(A [][]int) int {
 	m := len(A)
 

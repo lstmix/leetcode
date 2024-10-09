@@ -33,13 +33,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 var dirs []int = []int{0, 1, 0, -1, 0}
 
 func dfs(matrix [][]int, i, j int, m, n int, cache [][]int) int {

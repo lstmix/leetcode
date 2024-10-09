@@ -33,13 +33,6 @@ package leetcode
 
 import "math/bits"
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func maxLength(arr []string) int {
 	// combs contains different combinations of strings
 	// which contain unique characters, and are candidates for a longer string

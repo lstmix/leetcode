@@ -47,13 +47,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func maxSlidingWindow(nums []int, k int) []int {
 	n := len(nums)
 	if n == 0 || k <= 0 {

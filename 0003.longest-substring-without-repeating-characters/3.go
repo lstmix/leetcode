@@ -35,28 +35,17 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func lengthOfLongestSubstring(s string) int {
-	if len(s) == 0 {
-		return 0
-	}
+	m := make(map[rune]int)
+	maxCount, start := 0, 0
 
-	m := make(map[byte]int)
-
-	maxCount, curSubstringStart := 0, -1
-	for i := range s {
-		// found duplicate in current substring
-		if idx, ok := m[s[i]]; ok && idx > curSubstringStart {
-			curSubstringStart = idx
+	for i, ch := range s {
+		if idx, exists := m[ch]; exists && idx >= start {
+			start = idx + 1
 		}
-		maxCount = max(maxCount, i-curSubstringStart)
-		m[s[i]] = i
+
+		m[ch] = i
+		maxCount = max(maxCount, i-start+1)
 	}
 
 	return maxCount

@@ -38,13 +38,6 @@ package leetcode
 
 import "math"
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func commonChars(A []string) []string {
 	res := []string{}
 	chars := make([]int, 26)

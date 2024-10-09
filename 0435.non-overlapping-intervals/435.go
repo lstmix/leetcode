@@ -59,13 +59,6 @@ func qsort(a [][]int) {
 	qsort(a[left+1:])
 }
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func eraseOverlapIntervals(intervals [][]int) int {
 	if len(intervals) == 0 {
 		return 0

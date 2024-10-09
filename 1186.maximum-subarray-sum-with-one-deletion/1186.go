@@ -38,13 +38,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func maximumSum(nums []int) int {
 	if len(nums) == 0 {
 		return 0

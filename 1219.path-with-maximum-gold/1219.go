@@ -42,13 +42,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // solution if the number of cells is small (25)
 func dfs(grid [][]int, i, j, m, n int) int {
 	dirs := []int{0, 1, 0, -1, 0}

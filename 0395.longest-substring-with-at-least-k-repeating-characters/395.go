@@ -30,13 +30,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // for c=1:26, we are going to use sliding window (left, right)
 // to find the longest window which contains exactly c unique characters
 // and for each character, there are at least K repeating ones.

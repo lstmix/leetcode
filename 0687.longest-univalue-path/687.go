@@ -29,13 +29,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func helper(root *TreeNode, prev int, maxVal *int) int {
 	if root == nil {
 		return 0

@@ -32,13 +32,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func cannotDivide(target int, nums []int, parts int) bool {
 	count := 1
 	total := 0

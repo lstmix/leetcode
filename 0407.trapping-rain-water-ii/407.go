@@ -104,13 +104,6 @@ type Cell struct {
 	height, x, y int
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func trapRainWater(heightMap [][]int) int {
 	m := len(heightMap)
 	if m < 3 {

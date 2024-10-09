@@ -63,20 +63,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func widthBST(root *TreeNode, level, pos int, widths *[][2]int) {
 	if root == nil {
 		return

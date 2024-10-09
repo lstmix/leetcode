@@ -62,13 +62,6 @@ func (s *Stack) Empty() bool {
 	return len(s.storage) == 0
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func calculateArea(stack *Stack, heights []int, right int) int {
 	top := stack.Pop()
 

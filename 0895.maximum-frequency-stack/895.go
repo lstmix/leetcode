@@ -79,13 +79,6 @@ func (s *Stack) Empty() bool {
 	return len(s.items) == 0
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 type FreqStack struct {
 	// map from integer to frequency
 	freq map[int]int

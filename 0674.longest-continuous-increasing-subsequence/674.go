@@ -27,13 +27,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a < b {
-		return b
-	}
-	return a
-}
-
 func findLengthOfLCIS(nums []int) int {
 	if len(nums) == 0 {
 		return 0

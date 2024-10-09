@@ -22,13 +22,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func partitionLabels(S string) []int {
 	// record last index of each character
 	chars := make([]int, 26)

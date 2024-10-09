@@ -20,20 +20,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func maxProduct(nums []int) int {
 	if len(nums) == 0 {
 		return 0

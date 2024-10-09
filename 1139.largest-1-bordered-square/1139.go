@@ -28,20 +28,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func largest1BorderedSquare(grid [][]int) int {
 	m := len(grid)
 	n := len(grid[0])

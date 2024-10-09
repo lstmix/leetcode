@@ -33,13 +33,6 @@ package leetcode
 
 import "math"
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 type Queue struct {
 	storage []int
 }

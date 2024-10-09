@@ -70,13 +70,6 @@ package leetcode
 
 import "bytes"
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func fullJustify(words []string, maxWidth int) []string {
 	numWords := make([]int, 0)
 	extraSpaces := make([]int, 0)

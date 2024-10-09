@@ -29,13 +29,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func addIsland(grid [][]int, i, j, m, n int) int {
 	count := 1
 	grid[i][j] = 2

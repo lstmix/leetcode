@@ -45,13 +45,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func movesToChessboard(board [][]int) int {
 	var rowSum, colSum, rowSwap, colSwap int
 

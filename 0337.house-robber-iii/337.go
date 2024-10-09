@@ -41,13 +41,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func robSub(root *TreeNode) [2]int {
 	if root == nil {
 		return [2]int{0, 0}

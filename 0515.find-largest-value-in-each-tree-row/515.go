@@ -67,13 +67,6 @@ func (q *Queue) Empty() bool {
 	return len(q.nodes) == 0
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func largestValues(root *TreeNode) []int {
 	queue := &Queue{}
 	queue.Push(root)

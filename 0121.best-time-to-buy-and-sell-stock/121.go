@@ -26,20 +26,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func maxProfit(prices []int) int {
 	if len(prices) < 2 {
 		return 0

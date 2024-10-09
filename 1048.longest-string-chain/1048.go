@@ -36,13 +36,6 @@ package leetcode
 
 import "sort"
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func longestStrChain(words []string) int {
 	m := make(map[string]int)
 	// sort.Strings doesn't sort by length

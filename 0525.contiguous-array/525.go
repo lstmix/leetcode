@@ -25,13 +25,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a < b {
-		return b
-	}
-	return a
-}
-
 func findMaxLength(nums []int) int {
 	m := make(map[int]int)
 	m[0] = -1

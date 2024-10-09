@@ -61,13 +61,6 @@ func longestPalindrome(s string) string {
 
 // Method 2. Manacher's algorithm.
 // 0(n)
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func longestPalindrome2(s string) string {
 	n := len(s)
 	if n == 0 {

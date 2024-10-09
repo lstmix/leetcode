@@ -34,13 +34,6 @@
 package leetcode
 
 // 2D Dynamic programming solution
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func longestCommonSubsequence(text1 string, text2 string) int {
 	T1 := []byte(text1)
 	T2 := []byte(text2)

@@ -57,13 +57,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // intead of dir we could use -curLen or smth like that, doesn't matter
 func dfs(root *TreeNode, curLen int, dir bool, maxVal *int) {
 	if root == nil {

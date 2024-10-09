@@ -39,20 +39,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 // Simple sliding window.
 // Note that we could group characters such that
 // [[1,3],[2,4]...] - each element is index of character

@@ -55,13 +55,6 @@ import (
 	"math/rand"
 )
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 type Node struct {
 	val    int
 	levels []*Node

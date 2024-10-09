@@ -41,20 +41,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // Collect the intervals strictly left or right of the new interval, then merge the new one with
 // the middle ones (if any) before inserting it between left and right ones.
 func insert(intervals [][]int, newInterval []int) [][]int {

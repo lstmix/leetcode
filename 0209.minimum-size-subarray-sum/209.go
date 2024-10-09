@@ -17,13 +17,6 @@
 package leetcode
 
 // Method 1 Two pointers, O(n)
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func minSubArrayLen(s int, nums []int) int {
 	left, right := 0, 0
 	sum := 0

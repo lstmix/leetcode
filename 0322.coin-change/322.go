@@ -41,13 +41,6 @@ package leetcode
 
 import "math"
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func helper(coins []int, amount int, memo []int) int {
 	if amount == 0 {
 		return 0

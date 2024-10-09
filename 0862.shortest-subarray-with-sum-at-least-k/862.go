@@ -81,13 +81,6 @@ func (q *Queue) Empty() bool {
 	return len(q.items) == 0
 }
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func shortestSubarray(A []int, K int) int {
 	queue := &Queue{}
 	minVal := len(A) + 1

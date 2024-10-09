@@ -47,13 +47,6 @@ func (s *Stack) Empty() bool {
 	return len(s.storage) == 0
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // example input [2,1,4,5,6,3]
 // stack: [0], index: 1
 // stack: [], index: 1, area: 2

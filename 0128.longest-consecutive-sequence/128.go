@@ -23,13 +23,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func longestConsecutive(nums []int) int {
 	m := make(map[int]struct{}, len(nums))
 	for i := range nums {

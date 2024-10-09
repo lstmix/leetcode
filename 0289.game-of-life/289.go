@@ -42,20 +42,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func liveNeighbors(board [][]int, m, n, i, j int) int {
 	lives := 0
 	for k := max(i-1, 0); k < min(i+2, m); k++ {

@@ -26,13 +26,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a < b {
-		return b
-	}
-	return a
-}
-
 func rob(nums []int) int {
 	var prev1, prev2 int
 	for i := range nums {

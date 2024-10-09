@@ -64,20 +64,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func orderOfLargestPlusSign(N int, mines [][]int) int {
 	grid := make([][]int, N)
 	for i := range grid {

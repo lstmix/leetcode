@@ -38,13 +38,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func balancedString(s string) int {
 	count := make([]int, 26)
 	for _, char := range s {

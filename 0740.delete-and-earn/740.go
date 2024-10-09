@@ -43,13 +43,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // We first transform the nums array into a points array that sums up the total number of points for that particular value.
 // A value of x will be assigned to index x in points.
 // nums: [2, 2, 3, 3, 3, 4] (2 appears 2 times, 3 appears 3 times, 4 appears once)

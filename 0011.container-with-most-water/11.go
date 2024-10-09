@@ -34,20 +34,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 // Two pointer approach.
 // The area formed between the lines will always be limited by the height of the shorter line.
 // Further, the farther the lines, the more will be the area obtained.

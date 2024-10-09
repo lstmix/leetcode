@@ -17,13 +17,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func convertToTimestamp(s string) int {
 	hours := int(s[0]-'0')*10 + int(s[1]-'0')
 	minutes := int(s[3]-'0')*10 + int(s[4]-'0')

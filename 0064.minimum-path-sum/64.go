@@ -25,13 +25,6 @@
 
 package leetcode
 
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
-}
-
 func minPathSum(grid [][]int) int {
 	if len(grid) == 0 {
 		return 0

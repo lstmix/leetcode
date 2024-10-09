@@ -30,13 +30,6 @@
 
 package leetcode
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func robHelper(nums []int, start, end int) int {
 	var prev1, prev2 int
 	for i := start; i < end; i++ {

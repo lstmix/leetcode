@@ -30,13 +30,6 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
-}
-
 func maxPath(root *TreeNode, maxSum *int) int {
 	if root == nil {
 		return 0
